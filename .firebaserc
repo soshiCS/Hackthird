@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "hackathon-7bcae",
+    "staging": "hack-d49a0"
+  },
+  "targets": {},
+  "etags": {}
+}
